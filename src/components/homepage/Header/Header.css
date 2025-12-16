@@ -1,0 +1,113 @@
+/* From Uiverse.io by vinodjangid07 */ 
+.button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgb(20, 20, 20);
+  border: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 0px 4px rgba(180, 160, 255, 0.253);
+  cursor: pointer;
+  transition-duration: 0.3s;
+  overflow: hidden;
+  position: relative;
+}
+
+.svgIcon {
+  width: 24px;
+  height: 44px;
+  transition-duration: 0.3s;
+}
+
+.svgIcon path {
+  fill: white;
+}
+
+.button:hover {
+  width: 140px;
+  border-radius: 50px;
+  transition-duration: 0.3s;
+  background-color: rgb(181, 160, 255);
+  align-items: center;
+}
+
+.button:hover .svgIcon {
+  /* width: 20px; */
+  transition-duration: 0.3s;
+  transform: translateY(-200%);
+}
+
+.button::before {
+  position: absolute;
+  bottom: -20px;
+  content: "ورود / ثبت نام";
+  color: white;
+  /* transition-duration: .3s; */
+  font-size: 0px;
+}
+
+.button:hover::before {
+  font-size: 13px;
+  opacity: 1;
+  bottom: unset;
+  /* transform: translateY(-30px); */
+  transition-duration: 0.3s;
+}
+/* لوگوی دایره‌ای */
+.logo-circle {
+  width: 46px;
+  height: 46px;
+  background: #4f46e5;
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 3px 10px rgba(79, 70, 229, 0.25);
+}
+
+/* دکمه ورود */
+.login-button {
+  background: #4f46e5;
+  color: white;
+  padding: 8px 18px;
+  border-radius: 10px;
+  border: none;
+  font-weight: 500;
+  display: inline-flex;
+  align-items: center;
+  transition: 0.2s;
+}
+
+.login-button:hover {
+  background: #4338ca;
+  transform: translateY(-2px);
+}
+
+/* متن منوی offcanvas */
+.offcanvas-custom .offcanvas-header {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.offcanvas-custom .nav-link {
+  font-size: 1rem;
+  padding: 10px;
+}
+
+.offcanvas-custom .nav-link:hover {
+  color: #4f46e5;
+}
+
+/* آیکون ورود */
+.svgIcon {
+  font-size: 20px;
+}
+
+
+
+

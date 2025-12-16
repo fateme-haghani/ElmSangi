@@ -1,0 +1,169 @@
+{
+  "faculty": [
+    {
+      "id": 1,
+      "name": "دکتر مهدی احمدی",
+      "department": "علوم کامپیوتر",
+      "rank": "استاد",
+      "university": "دانشگاه تهران",
+      "hIndex": 52,
+      "publications": 248,
+      "citations": 12340,
+      "status": "فعال"
+    },
+    {
+      "id": 2,
+      "name": "دکتر سارا رضایی",
+      "department": "مهندسی",
+      "rank": "دانشیار",
+      "university": "دانشگاه صنعتی شریف",
+      "hIndex": 38,
+      "publications": 184,
+      "citations": 8920,
+      "status": "فعال"
+    },
+    {
+      "id": 3,
+      "name": "دکتر علی کریمی",
+      "department": "ریاضیات",
+      "rank": "استاد",
+      "university": "دانشگاه صنعتی امیرکبیر",
+      "hIndex": 45,
+      "publications": 212,
+      "citations": 10560,
+      "status": "مرخصی"
+    },
+     {
+      "id": 4,
+      "name": "دکتر فاطمه حسینی",
+      "department": "فیزیک",
+      "rank": "استادیار",
+      "university": "دانشگاه اصفهان",
+      "hIndex": 24,
+      "publications": 96,
+      "citations": 4820,
+      "status": "فعال"
+    },
+    {
+      "id": 5,
+      "name": "دکتر رضا مرادی",
+      "department": "شیمی",
+      "rank": "استاد",
+      "university": "دانشگاه تهران",
+      "hIndex": 58,
+      "publications": 276,
+      "citations": 15480,
+      "status": "فعال"
+    },
+    {
+      "id": 6,
+      "name": "دکتر زهرا صادقی",
+      "department": "علوم کامپیوتر",
+      "rank": "دانشیار",
+      "university": "دانشگاه صنعتی شریف",
+      "hIndex": 42,
+      "publications": 198,
+      "citations": 9340,
+      "status": "فعال"
+    },
+    {
+      "id": 7,
+      "name": "دکتر حسن رحیمی",
+      "department": "مهندسی برق",
+      "rank": "استاد",
+      "university": "دانشگاه صنعتی امیرکبیر",
+      "hIndex": 48,
+      "publications": 234,
+      "citations": 11280,
+      "status": "بازنشسته"
+    },
+    {
+      "id": 8,
+      "name": "دکتر مریم جعفری",
+      "department": "ریاضیات",
+      "rank": "استادیار",
+      "university": "دانشگاه اصفهان",
+      "hIndex": 28,
+      "publications": 108,
+      "citations": 5640,
+      "status": "فعال"
+    },
+    {
+      "id": 9,
+      "name": "دکتر امیرحسین نادری",
+      "department": "مهندسی عمران",
+      "rank": "دانشیار",
+      "university": "دانشگاه علم و صنعت",
+      "hIndex": 33,
+      "publications": 156,
+      "citations": 7860,
+      "status": "فعال"
+    },
+    {
+      "id": 10,
+      "name": "دکتر نرگس موسوی",
+      "department": "زیست‌شناسی",
+      "rank": "استاد",
+      "university": "دانشگاه شیراز",
+      "hIndex": 47,
+      "publications": 221,
+      "citations": 10120,
+      "status": "فعال"
+    },
+    {
+      "id": 11,
+      "name": "دکتر مجید دل‌آرا",
+      "department": "اقتصاد",
+      "rank": "دانشیار",
+      "university": "دانشگاه علامه طباطبایی",
+      "hIndex": 31,
+      "publications": 142,
+      "citations": 6720,
+      "status": "مرخصی"
+    },
+    {
+      "id": 12,
+      "name": "دکتر الهام قاسمی",
+      "department": "روان‌شناسی",
+      "rank": "استادیار",
+      "university": "دانشگاه تبریز",
+      "hIndex": 21,
+      "publications": 88,
+      "citations": 3980,
+      "status": "فعال"
+    },
+    {
+      "id": 13,
+      "name": "دکتر پوریا کاظمی",
+      "department": "هوش مصنوعی",
+      "rank": "استادیار",
+      "university": "دانشگاه صنعتی خواجه‌نصیر",
+      "hIndex": 29,
+      "publications": 117,
+      "citations": 7420,
+      "status": "فعال"
+    },
+    {
+      "id": 14,
+      "name": "دکتر لیلا صمدی",
+      "department": "آمار",
+      "rank": "دانشیار",
+      "university": "دانشگاه الزهرا",
+      "hIndex": 35,
+      "publications": 163,
+      "citations": 8210,
+      "status": "فعال"
+    },
+    {
+      "id": 15,
+      "name": "دکتر حمید آقاجانی",
+      "department": "مهندسی مکانیک",
+      "rank": "استاد",
+      "university": "دانشگاه صنعتی اصفهان",
+      "hIndex": 51,
+      "publications": 239,
+      "citations": 13250,
+      "status": "فعال"
+    }
+  ]
+}

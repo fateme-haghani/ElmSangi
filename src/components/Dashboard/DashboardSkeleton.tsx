@@ -1,6 +1,6 @@
 export default function DashboardSkeleton() {
   return (
-    <div className="p-8 space-y-10 animate-pulse">
+    <div className="p-12 space-y-10 animate-pulse">
       {/* Header */}
       <div className="space-y-3">
         <div className="h-8 w-1/3 rounded-lg bg-gradient-to-r from-slate-700 via-slate-600 to-slate-700" />
